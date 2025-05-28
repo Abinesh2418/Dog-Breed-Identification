@@ -51,3 +51,15 @@ You can find and unzip the dataset into your working directory. The dataset used
 ### 7. 🔎 Final Testing
 - Load test image filenames.
 - Preprocess and run predictions on test data.
+
+## 📊 Visualizations
+
+### 🐕 Distribution of Dog Breeds
+A horizontal bar chart showing the number of images available for each dog breed in the dataset.
+
+## 📬 Contact
+
+For any queries or suggestions, feel free to reach out:
+
+- 📧 Email: [abineshbalasubramaniyam@example.com](mailto:abineshbalasubramaniyam@example.com)
+- 💼 LinkedIn: [linkedin.com/in/abinesh-b-1b14a1290/](https://www.linkedin.com/in/abinesh-b-1b14a1290/)
